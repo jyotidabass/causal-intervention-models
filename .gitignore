@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files and outputs
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.log
+*.pdf
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Testing and coverage
+.coverage
+.pytest_cache/
+.tox/
+htmlcov/
+
+# Documentation (except main README.md as per user preference)
+docs/
+*.md
+!README.md
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Data files (if any)
+data/
+datasets/
+*.data
+*.pickle
+*.pkl
+
+# Model files
+models/
+*.model
+*.joblib
+
+# Logs
+logs/
+*.log
